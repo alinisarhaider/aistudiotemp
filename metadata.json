@@ -1,0 +1,7 @@
+{
+  "name": "Gemini React Starter",
+  "description": "A professional, production-ready boilerplate for building Gemini-powered React applications with TypeScript and Tailwind CSS.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
